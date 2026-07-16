@@ -1,3 +1,4 @@
+![Build Status](https://img.shields.io/badge/Pre-Release%20-20B2AA?style=for-the-badge)
 # Statistical-Comparison-Functions-using-SAS-R-Python
 Organization: CDC/NCEZID/DHQP/SB
 
